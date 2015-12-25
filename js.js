@@ -8,7 +8,7 @@ var canvas = document.getElementById('c');
 var ctx = canvas.getContext('2d');
 var centerX = canvas.width / 2;
 var centerY = canvas.height / 2;
-var radius = 80;
+var radius = 160;
 var sectorNumber;
 var intervalId = null;
 var input = document.getElementById('input');
